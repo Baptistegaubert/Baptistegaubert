@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 # 💫 About Me:
 Software Developer | Clean code, clear ideas 💡<br><br>Currently diving into Python and Golang 🐍<br><br>Working on a book review app 📖<br><br>Turning ice coffee into code ☕💻<br><br>Building tools that (hopefully) don't crash 🤞<br><br>Backend-first, frontend-curious. 🥸<br><br>Believer in knowledge sharing and open ideas. 🤝
 
